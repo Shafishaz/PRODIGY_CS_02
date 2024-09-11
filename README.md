@@ -1,4 +1,4 @@
-Overview
+# Overview
 
 This Python script provides a basic image encryption tool using pixel manipulation. It offers two simple encryption methods: swapping pixel values and applying a basic mathematical operation.
 
